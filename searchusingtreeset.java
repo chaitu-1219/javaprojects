@@ -10,7 +10,7 @@ public class searchusingtreeset {
 		ts.add("cpu");
 		ts.add("webcam");
 		System.out.println(ts);
-		System.out.println(ts.contains("mouse"));
+		System.out.println(ts.contains("mouse "));
 	}
 
 }

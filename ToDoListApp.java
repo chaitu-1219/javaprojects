@@ -51,7 +51,7 @@ public class ToDoListApp {
 					}
 				}
 				break;
-			case 4:
+		    case 4:
 				System.out.println("Exiting the application...");
 				sc.close();
 				System.exit(1);
